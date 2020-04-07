@@ -13,3 +13,5 @@ U need to download Flan's mod and inside it download "Flans Simple Parts Pack" a
 -If you want to train it more than just ride inside lines and after you are done press 'J'
 -If you want to see it ride itself just press Run (Start buttom must be pressed before) and wait a second
 -ENJOY 
+
+Will edit this a lot
