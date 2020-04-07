@@ -1,5 +1,7 @@
 # Minecraft_bot
-playing with neural network from Shiffman
+playing with neural network from Shiffman                   THANK YOU SHIFFMAN
+
+It just ride the scooter for you xd
 
 This is my first nn rewritten from Shiffman cause I don't have enough knowlege so please don't blame me pepegas ;)
 
