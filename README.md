@@ -10,7 +10,7 @@ U need to download Flan's mod and inside it download "Flans Simple Parts Pack" a
 *for line detection it uses EmguCV
 -After starting program put your minecraft screen to upper left corner
 -press Start button
--If you want to train it more than just ride inside lines and after you are done press 'J'
+-If you want to train it more than just ride between lines and after you are done press 'J'
 -If you want to see it ride itself just press Run (Start buttom must be pressed before) and wait a second
 -ENJOY 
 
