@@ -21,6 +21,8 @@ U need to download Flan's mod and inside it download "Flans Simple Parts Pack" a
 
 -ENJOY 
 
+-Added Stop Button XD, it ends application like when you exit from it but I didn't stop all processes before so it's nice ;)
+
 Will edit this a lot
 
 From here you can download it cause it's bigger than 25mb and right now I won't compile it
