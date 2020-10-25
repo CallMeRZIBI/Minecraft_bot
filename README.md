@@ -26,4 +26,4 @@ U need to download Flan's mod and inside it download "Flans Simple Parts Pack" a
 Will edit this a lot
 
 From here you can download it cause it's bigger than 25mb and right now I won't compile it
-https://drive.google.com/file/d/1CfU4D-U_nz0kos-65e4kKy1cG27jJny0/view?usp=sharing
+https://drive.google.com/file/d/1OdJd4OqiU6bRoDtk9gVl7mtyR33dBsC6/view?usp=sharing
